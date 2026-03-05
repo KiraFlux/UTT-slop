@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #include "Motion.h"
 #include "Config.h"
 #include "Settings.h"

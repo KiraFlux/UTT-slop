@@ -1,9 +1,10 @@
+#include <GyverOLED.h>
+
 #include "Primitives.h"
 #include "Config.h"
 #include "Settings.h"
 #include "Motion.h"
 #include "Marker.h"
-#include <GyverOLED.h>
 
 extern GyverOLED<SSH1106_128x64, OLED_NO_BUFFER> oled;
 

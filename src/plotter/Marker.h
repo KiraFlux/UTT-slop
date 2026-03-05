@@ -1,7 +1,6 @@
 #ifndef MARKER_H
 #define MARKER_H
 
-#include <Arduino.h>
 #include <Servo.h>
 
 // SERVO

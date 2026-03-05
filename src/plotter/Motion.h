@@ -1,8 +1,6 @@
 #ifndef MOTION_H
 #define MOTION_H
 
-#include <Arduino.h>
-
 // STATE
 
 extern long posX;

@@ -1,8 +1,6 @@
 #ifndef PRIMITIVES_H
 #define PRIMITIVES_H
 
-#include <Arduino.h>
-
 // UI
 
 void showMode(byte m, bool done);

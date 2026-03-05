@@ -1,6 +1,7 @@
-#include "Settings.h"
 #include <EEPROM.h>
 #include <GyverOLED.h>
+
+#include "Settings.h"
 
 extern GyverOLED<SSH1106_128x64, OLED_NO_BUFFER> oled;
 

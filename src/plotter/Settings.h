@@ -1,8 +1,6 @@
 #ifndef SETTINGS_H
 #define SETTINGS_H
 
-#include <Arduino.h>
-
 // EEPROM
 
 #define EEPROM_ADDR   0

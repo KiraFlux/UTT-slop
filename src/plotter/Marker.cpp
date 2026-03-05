@@ -1,3 +1,5 @@
+#include <Arduino.h>
+
 #include "Marker.h"
 #include "Config.h"
 #include "Settings.h"
