@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino Mega",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "~/.arduino15/packages/arduino/hardware/avr/1.8.7/cores/arduino",
+                "~/.arduino15/packages/arduino/hardware/avr/1.8.7/variants/mega",
+                "~/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/avr/include/**",
+                "~/Arduino/libraries/**"
+            ],
+            "defines": [
+                "F_CPU=16000000L",
+                "ARDUINO=10819",
+                "ARDUINO_AVR_MEGA2560",
+                "__AVR_ATmega2560__"
+            ],
+            "compilerPath": "~/.arduino15/packages/arduino/tools/avr-gcc/7.3.0-atmel3.6.1-arduino7/bin/avr-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
