@@ -6,7 +6,7 @@
 
 // TYPES
 
-typedef void (*Action)();
+using Action = void(*)();
 
 struct Menu {
   const char* title;
